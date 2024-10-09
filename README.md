@@ -30,10 +30,10 @@ The model is trained with a combination of reconstruction loss and KL divergence
 
 I experiment with the following hyperparameters:
 
-Batch Size	Learning Rate	Epochs	Latent Dim
-64	1e-4	50	2
-32	5e-4	30	4
-128	1e-3	20	2
+- Batch Size: 64, 32, 128
+- Learning Rate:1e-4, 5e-4, 1e-3
+- Epochs: 10, 20, 30, 50
+- Latent Dim: 2
 
 # Visualizations
 
