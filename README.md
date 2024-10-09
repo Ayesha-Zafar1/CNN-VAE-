@@ -8,11 +8,11 @@ The model is designed to encode MNIST images into a latent space and decode them
 
 # Requirements
 
-PyTorch
-torchvision
-matplotlib
-tqdm
-numpy
+- PyTorch
+- torchvision
+- matplotlib
+- tqdm
+- numpy
 
 # Model Structure
 
